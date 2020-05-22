@@ -1,0 +1,9 @@
+format example
+this notation 3 :4 means 4(th) cell from 3(rd) layer
+=================================
+best destination 4 :3 
+min cost -> 3.0
+path to follow:
+1 :2 [cost: 0 ]
+2 :3 [cost: 1.0 ]
+3 :3 [cost: 2.0 ]
